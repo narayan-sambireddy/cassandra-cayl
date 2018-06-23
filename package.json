@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/narayan-sambireddy/cassandra-cayl/issues"
   },
-  "homepage": "https://github.com/narayan-sambireddy/cassandra-cayl#readme"
+  "homepage": "https://github.com/narayan-sambireddy/cassandra-cayl#readme",
+  "dependencies": {
+    "mongod": "^2.0.0"
+  }
 }
